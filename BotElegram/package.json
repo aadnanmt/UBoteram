@@ -1,0 +1,21 @@
+{
+  "name": "UBoteram",
+  "version": "1.0.0",
+  "description": "UBoteram is bot telegram",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "telegram",
+    "bot",
+    "botelegram",
+    "UBoteram",
+    "UBoteram_bot",
+    "Boteram"
+  ],
+  "author": "aadnanmt",
+  "license": "ISC"
+}
